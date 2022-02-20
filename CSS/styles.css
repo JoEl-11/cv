@@ -1,0 +1,40 @@
+/***************************TAG SELECTORS********************/
+body {
+  background-color: #E5F9F5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+img:hover{
+  color: black;
+  border-radius: 20%;
+}
+table,tr,th,td{
+padding: 8px;
+}
+/*************************CLASS SESLECTORS*********************************/
+.joel{
+  color: #87543e;
+}
+.institutions{
+  border: 1px solid black;
+  width: 30%;
+  border-collapse: collapse;
+}
+.color tr:nth-child(odd){
+  background-color: #f2f2f2;
+}
